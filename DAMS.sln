@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAMS", "DAMS\DAMS.csproj", "{F01A4F28-5DBD-456A-B5EA-2A35E6F64BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01A4F28-5DBD-456A-B5EA-2A35E6F64BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01A4F28-5DBD-456A-B5EA-2A35E6F64BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01A4F28-5DBD-456A-B5EA-2A35E6F64BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01A4F28-5DBD-456A-B5EA-2A35E6F64BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698AEEFF-BF55-4161-A684-0E58816C2F86}
+	EndGlobalSection
+EndGlobal
